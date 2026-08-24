@@ -134,10 +134,12 @@ int main() {
 
 ## OUTPUT
 
-$ ./sem.o 
+### $ ./sem.o
+
 ![output1](output1.png)
 
-$ ipcs
+### $ ipcs
+
 ![output2](output2.png)
 
 # RESULT:
